@@ -127,11 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Chapter03\Account.h" />
+    <ClInclude Include="Chapter04\Exercises\3-4.13\GasMileage.h" />
+    <ClInclude Include="Chapter04\Student.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter03\Account.cpp" />
-    <ClCompile Include="Chapter03\AccountTest.cpp" />
+    <ClCompile Include="Chapter04\Exercises\3-4.13\GasMileage.cpp" />
+    <ClCompile Include="Chapter04\Student.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

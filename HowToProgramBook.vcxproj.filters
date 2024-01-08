@@ -15,15 +15,18 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Chapter03\Account.h">
+    <ClInclude Include="Chapter04\Student.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter04\Exercises\3-4.13\GasMileage.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter03\Account.cpp">
+    <ClCompile Include="Chapter04\Student.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Chapter03\AccountTest.cpp">
+    <ClCompile Include="Chapter04\Exercises\3-4.13\GasMileage.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
